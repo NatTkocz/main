@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1snr8HOWFfrkV7BKdw52QjLtKfyghzaPw
 """
 
+
 def wyswietl_imiona(imiona):
     if len(imiona) == 5:
         for imie in imiona:
