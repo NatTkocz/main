@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1PgL09mcOWBHpoblX9xZ4xiKiWx2QS1Qn
 """
 
+
 class Student:
     def __init__(self, name, marks):
         self.name = name
